@@ -1,0 +1,12 @@
+@import '../../assets/style/colors';
+.thumb {
+  background-color: $primary!important;
+  color: $primary!important;
+  border-radius: 3px;
+  &-vertical {
+    width: 4px;
+  }
+  &-horizontal {
+    height: 4px;
+  }
+}

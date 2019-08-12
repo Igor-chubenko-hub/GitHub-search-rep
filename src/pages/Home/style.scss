@@ -1,0 +1,19 @@
+.homePage{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: calc(100vh - 100px);
+  .user{
+    display: flex;
+    justify-content: space-between;
+  }
+  .title{
+    margin-left: 20px;
+  }
+  .repositories{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+}

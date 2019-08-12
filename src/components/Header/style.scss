@@ -1,0 +1,17 @@
+header {
+  height: 100px;
+
+  .mobile-header {
+    background-color:rgb(0, 63, 106);
+    padding: 10px 15px;
+    min-height: 60px;
+  }
+
+  .logo {
+    height: 100%;
+  }
+
+  .icon:hover {
+    color: #cccccc;
+  }
+}
